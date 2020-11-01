@@ -1,4 +1,4 @@
-# CodeIgniter 4 Framework
+# CodeIgniter 4 Framework - aplikasi voting berbasis web
 
 ## What is CodeIgniter?
 

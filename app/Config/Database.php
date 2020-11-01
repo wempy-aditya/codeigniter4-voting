@@ -32,9 +32,9 @@ class Database extends \CodeIgniter\Database\Config
 	public $default = [
 		'DSN'      => '',
 		'hostname' => 'localhost',
-		'username' => 'wempytec_increase_user',
-		'password' => 'k!{U~N_W28.7',
-		'database' => 'wempytec_increase',
+		'username' => 'wempy',
+		'password' => 'root',
+		'database' => 'wempy',
 		'DBDriver' => 'MySQLi',
 		'DBPrefix' => '',
 		'pConnect' => false,
