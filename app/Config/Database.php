@@ -32,9 +32,9 @@ class Database extends \CodeIgniter\Database\Config
 	public $default = [
 		'DSN'      => '',
 		'hostname' => 'localhost',
-		'username' => 'wempy',
-		'password' => 'root',
-		'database' => 'wempy',
+		'username' => 'root',
+		'password' => 'pass',
+		'database' => 'codeigniter4',
 		'DBDriver' => 'MySQLi',
 		'DBPrefix' => '',
 		'pConnect' => false,
